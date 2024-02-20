@@ -1,4 +1,5 @@
-/**Modify the following class EvaluateExpression to add operators ^ for exponent and % for modulus. 
+/**Lab 6 
+ * Modify the following class EvaluateExpression to add operators ^ for exponent and % for modulus. 
  * For example, 3^2 is 9 and 3%2 is 1. The ^ operator has the highest precedence and the % operator 
  * has the same precedence as the * and / operators. Your program should prompt the user to enter 
  * an expression, evaluate the expression, and display the result.*/
